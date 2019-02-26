@@ -1,0 +1,12 @@
+version: "3.2"
+services:
+  jekyll:
+    image: jekyll/jekyll
+    ports:
+    - "35729:35729"
+    - "4000:4000"
+    volumes:
+    - type: bind
+      source: "."
+      target: /srv/jekyll
+    command: jekyll serve --livereload
