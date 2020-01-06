@@ -4,7 +4,7 @@
 #define MyAppName "GloSC"
 #define MyAppVersion "2.0.6"
 #define MyAppPublisher "Peter Repukat - FlatspotSoftware"
-#define MyAppURL "htpp://github.com/Alia5/GloSC"
+#define MyAppURL "https://github.com/Alia5/GloSC"
 #define MyAppExeName "GloSC.exe"
 #define GloSCLauncherName "GloSC_GameLauncher.exe"
 
