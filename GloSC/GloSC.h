@@ -59,7 +59,7 @@ private:
 
 	QList<UWPPair> uwp_pairs_;
 
-	constexpr static const unsigned int GLOSC_VERSION = 0x00000206; //Version Number in as bytes, just remove the dots.
+	constexpr static const unsigned int GLOSC_VERSION = 0x00000208; //Version Number in as bytes, just remove the dots.
 
 	int wide_x_ = 711;
 	int small_x_ = 302;

@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "GloSC"
-#define MyAppVersion "2.0.6"
+#define MyAppVersion "2.0.7"
 #define MyAppPublisher "Peter Repukat - FlatspotSoftware"
 #define MyAppURL "htpp://github.com/Alia5/GloSC"
 #define MyAppExeName "GloSC.exe"
@@ -44,15 +44,15 @@ Source: "dependencies\SFML-2.4.2-x86\bin\sfml-system-2.dll"; DestDir: "{app}"; F
 Source: "dependencies\SFML-2.4.2-x86\bin\sfml-window-2.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "dependencies\SFML-2.4.2-x86\bin\sfml-graphics-2.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "License.txt"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Qt\5.13.1\msvc2017\bin\Qt5Core.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Qt\5.13.1\msvc2017\bin\Qt5Gui.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Qt\5.13.1\msvc2017\bin\Qt5Widgets.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Qt\5.13.1\msvc2017\bin\Qt5Network.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Qt\5.13.2\msvc2017\bin\Qt5Core.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Qt\5.13.2\msvc2017\bin\Qt5Gui.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Qt\5.13.2\msvc2017\bin\Qt5Widgets.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Qt\5.13.2\msvc2017\bin\Qt5Network.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "build\Win32\Release\EnforceBindingDLL.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "qt-license.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "Readme.md"; DestDir: "{app}"; Flags: ignoreversion
 Source: "TargetConfig.ini"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Qt\5.13.1\msvc2017\plugins\platforms\qwindows.dll"; DestDir: "{app}\platforms"; Flags: ignoreversion
+Source: "C:\Qt\5.13.2\msvc2017\plugins\platforms\qwindows.dll"; DestDir: "{app}\platforms"; Flags: ignoreversion
 Source: "redist\vc_redist_x86.exe"; DestDir: "{app}\redist"; Flags: ignoreversion
 Source: "redist\libeay32.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "redist\ssleay32.dll"; DestDir: "{app}"; Flags: ignoreversion

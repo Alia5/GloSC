@@ -600,7 +600,7 @@ void GloSC::on_pbUWP_clicked()
 
 					hr = SHCreateStreamOnFileEx(
 						pathBuf,
-						STGM_READ | STGM_SHARE_EXCLUSIVE,
+						STGM_READ,
 						0, // default file attributes
 						FALSE, // do not create new file
 						NULL, // no template

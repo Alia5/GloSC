@@ -246,3 +246,6 @@ ModelManifest.xml
 GloSC_x64\.zip
 
 GloSC\.zip
+/GloSC/sfml-graphics-2.dll
+/GloSC/sfml-system-2.dll
+/GloSC/sfml-window-2.dll

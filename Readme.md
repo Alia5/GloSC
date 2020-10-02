@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ph7g8xcct9hab6fp?svg=true)](https://ci.appveyor.com/project/Alia5/glosc) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Github All Releases](https://img.shields.io/github/downloads/Alia5/GloSC/total.svg)]() [![Discord](https://img.shields.io/discord/368823110817808384.svg)](https://discord.gg/T9b4D5y)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/Thracky/GloSC?svg=true)](https://ci.appveyor.com/project/Thracky/glosc) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Github All Releases](https://img.shields.io/github/downloads/Alia5/GloSC/total.svg)]() [![Discord](https://img.shields.io/discord/368823110817808384.svg)](https://discord.gg/T9b4D5y)
 
 
 ![GloSC logo](https://github.com/Alia5/GloSC/blob/master/GloSC_Icon_small.png?raw=true "GloSC logo")
